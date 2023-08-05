@@ -17,6 +17,12 @@ Me chamo Juliana Lucca e trabalho como desenvolvedora front-end freelancer. Sou 
 
 ---
 
+### Projetos recentes
+
+- Consumindo API com JavaScript vanilla: [Popular Movies App](https://github.com/julucca/7-days-movie-app/tree/main) 
+
+---
+
 ### Contato
 <div>
   <a href="mailto:lucca.editora@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
