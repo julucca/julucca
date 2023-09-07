@@ -19,7 +19,8 @@ Me chamo Juliana Lucca e trabalho como desenvolvedora front-end freelancer. Sou 
 
 ### Projetos recentes
 
-- Consumindo API com JavaScript vanilla: [Popular Movies App](https://github.com/julucca/7-days-movie-app/tree/main) 
+- CRUD com JavaScript vanilla: [Todo App](https://github.com/julucca/todo-app)
+- Consumindo API com JavaScript vanilla: [Popular Movies App](https://github.com/julucca/7-days-movie-app/tree/main)
 
 ---
 
